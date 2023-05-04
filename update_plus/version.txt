@@ -4,5 +4,5 @@
     "main":"智慧学习加强版.exe",
     "updater":"智慧学习加强版.exe",
     "url":"https://ddxy88.github.io/xx/update_plus",
-    "version":"1.0.0.81"
+    "version":"1.0.0.82"
 }
