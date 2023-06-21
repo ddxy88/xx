@@ -1,8 +1,8 @@
-{
+﻿{
     "description":"",
     "format":".lzma",
     "main":"智慧学习.exe",
     "updater":"智慧学习.exe",
     "url":"https://ddxy88.github.io/xx/update",
-    "version":"1.0.0.89"
+    "version":"1.0.0.99"
 }
